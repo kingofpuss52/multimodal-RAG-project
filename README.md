@@ -37,7 +37,7 @@ The system follows a modular multimodal pipeline:
 ### **Model Evaluation (Vision Engine)**
 The EfficientNetB5 model, optimized via Bayesian Search, achieves high discriminative power across all classes.
 
-![Confusion Matrix](assets/confusion_matrix.png)
+![Confusion Matrix](/assets/confusion%20matrix%20BO.png)
 
 * **Inference Latency**: 0.7s - 2.5s (Vision) | 3.0s - 5.0s (RAG).
 * **Accuracy**: Robust diagonal performance with minor semantic overlap between Glioma and Meningioma.
