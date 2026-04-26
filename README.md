@@ -88,7 +88,7 @@ Run the following commands in separate terminals to start the full multimodal ec
 mlflow ui
 ```
 
-**Terminal 2: Steramlit Interactive Dashboard**
+**Terminal 2: Streamlit Interactive Dashboard**
 ```bash
 streamlit run app.py
 ```
