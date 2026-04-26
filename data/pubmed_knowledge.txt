@@ -1,0 +1,312 @@
+CATEGORY: NORMAL/NO TUMOR
+MEDICAL CONTEXT: DNA was collected for genotyping from 73 term newborns suffering from TTN and 55 healthy controls from a Caucasian cohort.
+CLINICAL QUESTION: Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?
+EXPERT ANSWER: We conclude that beta1Gly49 homozygosity and TACC haplotype of ADRB2 gene, both loss-of-function genetic variations, may predispose to TTN.
+
+---
+
+CATEGORY: NORMAL/NO TUMOR
+MEDICAL CONTEXT: Irregular bleeding affects many users of combined menopausal hormone therapy (HT) and commonly leads to invasive and expensive investigations to exclude underlying malignancy. In most cases no abnormality is found.
+CLINICAL QUESTION: Menopausal hormone therapy and irregular endometrial bleeding: a potential role for uterine natural killer cells?
+EXPERT ANSWER: Little is known about the mechanisms underlying irregular bleeding in HT users. This is the first report of uNK cells and their association with regulating cytokines in postmenopausal endometrium and demonstrates a possible mechanism by which HT may induce irregular bleeding.
+
+---
+
+CATEGORY: NORMAL/NO TUMOR
+MEDICAL CONTEXT: Primary eosinophilic esophagitis, a chronic inflammatory disorder of the esophagus, evokes recurrent dysphagia. Endoscopy is often unremarkable, and no consensus exists regarding management of resultant dysphagia. The response of a series of patients with primary eosinophilic esophagitis to dilation is reported together with a description of a possibly pathognomonic sign: fragile esophageal mucosa, for which the term "crêpe-paper" mucosa is introduced.
+CLINICAL QUESTION: Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?
+EXPERT ANSWER: Primary eosinophilic esophagitis is characterized by fragile esophageal mucosa that readily tears in response to minor trauma during otherwise uneventful diagnostic endoscopy. This "crêpe-paper" sign may alert endoscopists to the presence of the disease when other mucosal alterations are lacking. Dilation is effective for patients with symptoms with minimal morbidity, despite development of disquieting lesions in response to the procedure.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: For women, the correlation between circulating androgens and sexual desire is inconclusive. Substitution with androgens at physiological levels improves sexual function in women who experience decreased sexual desire and androgen deficiency from surgical menopause, pituitary disease, and age-related decline in androgen production in the ovaries. Measuring bioactive testosterone is difficult and new methods have been proposed, including measuring the primary androgen metabolite androsterone glucuronide (ADT-G).AIM: The aim of this study was to investigate a possible correlation between serum levels of androgens and sexual desire in women and whether the level of ADT-G is better correlated than the level of circulating androgens with sexual desire.
+CLINICAL QUESTION: Is there a correlation between androgens and sexual desire in women?
+EXPERT ANSWER: In the present study, FT and androstenedione were statistically significantly correlated with sexual desire in the total cohort of women. ADT-G did not correlate more strongly than circulating androgens with sexual desire and is therefore not superior to measuring circulating androgens by mass spectrometry.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Epidemiologic studies have suggested that hypertriglyceridemia and insulin resistance are related to the development of colon cancer. Nuclear peroxisome proliferator-activated receptors (PPAR), which play a central role in lipid and glucose metabolism, had been hypothesized as being involved in colon cancerogenesis. In animal studies the lipid-lowering PPAR ligand bezafibrate suppressed colonic tumors. However, the effect of bezafibrate on colon cancer development in humans is unknown. Therefore, we proposed to investigate a possible preventive effect of bezafibrate on the development of colon cancer in patients with coronary artery disease during a 6-year follow-up.
+CLINICAL QUESTION: Does the lipid-lowering peroxisome proliferator-activated receptors ligand bezafibrate prevent colon cancer in patients with coronary artery disease?
+EXPERT ANSWER: Our data, derived from patients with coronary artery disease, support the hypothesis regarding a possible preventive effect of bezafibrate on the development of colon cancer.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Nd:YAG laser-induced thermo therapy (LITT) of rat brains is associated with blood-brain barrier (BBB) permeability changes. We address the question of whether LITT-induced locoregional disruption of the BBB could possibly allow a locoregional passage of chemotherapeutic agents into brain tissue to treat malignant glioma.STUDY DESIGN/
+CLINICAL QUESTION: Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?
+EXPERT ANSWER: LITT induces a locoregional passage of chemotherapeutic agents into the brain tissue. This is of potential interest for the treatment of brain tumors.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The most common primary brain tumors in children and adults are of astrocytic origin. Classic histologic grading schemes for astrocytomas have included evaluating the presence or absence of nuclear abnormalities, mitoses, vascular endothelial proliferation, and tumor necrosis.
+CLINICAL QUESTION: Are endothelial cell patterns of astrocytomas indicative of grade?
+EXPERT ANSWER: Evaluation of astrocytomas utilizing antibody to vWF and confocal microscopy aids in the grading of these neoplasms.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The brain-dead donor supply has become one of the criteria limiting the performance of heart transplantation. Conventional screening criteria are too limiting and exclude suitable heart donors. Echocardiography is now widely available and is a reliable tool to assess left ventricular dysfunction in brain-dead donors. Yet few data are available on the degree of left ventricular dysfunction where a transplantation is possible.
+CLINICAL QUESTION: Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?
+EXPERT ANSWER: TEE is useful to assess left ventricular function in potential brain-dead donors. An FAC less than 50% is present in 36% of potential heart donors. Because left ventricular dysfunction is often reversible shortly after transplantation, an FAC below 50% may not necessarily preclude the use of hearts for transplantation.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The aim of this study was to assess the reproducibility of different measurement methods and define the most workable technique for measuring head and neck paragangliomas, to determine the best method for evaluating tumour growth. The evaluation of tumour growth is vital for a 'wait-and-scan' policy, a management strategy that became increasingly important.
+CLINICAL QUESTION: Measurement of head and neck paragangliomas: is volumetric analysis worth the effort?
+EXPERT ANSWER: Due to a relatively good reproducibility, fast and easy application, we found the linear dimension method to be the most pragmatic approach for evaluation of growth of carotid and vagal body paragangliomas. For jugulotympanic tumours, the preferred method is manual area tracing. However, volumetric changes of these tumours may be of less clinical importance than changes in relation to surrounding anatomical structures.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Xanthogranulomatous cholecystitis (XGC) is an uncommon variant of chronic cholecystitis, characterized by marked thickening of the gallbladder wall and dense local adhesions. It often mimics a gallbladder carcinoma (GBC), and may coexist with GBC, leading to a diagnostic dilemma. Furthermore, the premalignant nature of this entity is not known. This study was undertaken to assess the p53, PCNA and beta-catenin expression in XGC in comparison to GBC and chronic inflammation.
+CLINICAL QUESTION: Xanthogranulomatous cholecystitis: a premalignant condition?
+EXPERT ANSWER: The expression of p53, PCNA and beta-catenin in XGC was significantly different from GBC and similar to chronic cholecystitis, thus indicating the inflammatory nature of XGC and may not support a premalignant nature of the lesion.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: To determine whether TDP-43 type is associated with distinct patterns of brain atrophy on MRI in subjects with pathologically confirmed frontotemporal lobar degeneration (FTLD).
+CLINICAL QUESTION: Does TDP-43 type confer a distinct pattern of atrophy in frontotemporal lobar degeneration?
+EXPERT ANSWER: Although there are different patterns of atrophy across the different FTLD-TDP types, it appears that genetic and pathologic factors may also affect the patterns of atrophy.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Our aim was to determine the value of echo-planar diffusion-weighted MR imaging (epiDWI) in differentiating various types of primary parotid gland tumors.
+CLINICAL QUESTION: Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?
+EXPERT ANSWER: epiDWI has the potential to differentiate pleomorphic adenoma and myoepithelial adenomas from all other examined entities. Due to an overlap not only within the group of benign and malignant lesions but also between groups, diagnoses should not be addressed on the basis of ADC values solely. Therefore, further studies combining DWI, morphologic criteria, and probably other MR imaging techniques seem warranted.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The last 20 years has seen a marked improvement in skin cancer awareness campaigns. We sought to establish whether this has affected the presenting Breslow thickness of malignant melanoma in the South West.
+CLINICAL QUESTION: Are we seeing the effects of public awareness campaigns?
+EXPERT ANSWER: The proportion of thin 0-1 mm melanomas presenting in South West England has significantly increased from 2003 to 2012. There is no significant change in the thick>4 mm melanomas. This may be a result of increased public awareness due to effective public health campaigns which has significant prognostic and financial implications.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: A genetic component is well established in the etiology of breast cancer. It is not well known, however, whether genetic traits also influence prognostic features of the malignant phenotype.
+CLINICAL QUESTION: Is breast cancer prognosis inherited?
+EXPERT ANSWER: Breast cancer prognosis of a woman predicts the survival in her first-degree relatives with breast cancer. Our novel findings suggest that breast cancer prognosis might be inherited.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: It is now widely accepted that AMP-activated protein kinase (AMPK) is a critical regulator of energy homeostasis. Recently, it has been shown to regulate circadian clocks. In seasonal breeding species such as sheep, the circadian clock controls the secretion of an endogenous rhythm of melatonin and, as a consequence, is probably involved in the generation of seasonal rhythms of reproduction. Considering this, we identified the presence of the subunits of AMPK in different hypothalamic nuclei involved in the pre- and post-pineal pathways that control seasonality of reproduction in the ewe and we investigated if the intracerebroventricular (i.c.v.) injection of two activators of AMPK, metformin and AICAR, affected the circadian rhythm of melatonin in ewes that were housed in constant darkness. In parallel the secretion of insulin was monitored as a peripheral metabolic marker. We also investigated the effects of i.c.v. AICAR on the phosphorylation of AMPK and acetyl-CoA carboxylase (ACC), a downstream target of AMPK, in brain structures along the photoneuroendocrine pathway to the pineal gland.
+CLINICAL QUESTION: The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?
+EXPERT ANSWER: Taken together, these results suggest a potential role for AMPK on the secretion of melatonin probably acting trough the paraventricular nucleus and/or directly in the pineal gland. We conclude that AMPK may act as a metabolic cue to modulate the rhythm of melatonin secretion.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: To assess the results of transsphenoidal pituitary surgery in patients with Cushing's disease over a period of 18 years, and to determine if there are factors which will predict the outcome.
+CLINICAL QUESTION: Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?
+EXPERT ANSWER: Transsphenoidal pituitary surgery is a safe method of treatment in patients with Cushing's disease. Operative findings, radiological and histological findings, together with early postoperative serum cortisol and urine free cortisol estimates may identify failures in treatment. Alternative treatment might then be required for these patients. Because of the risk of late relapse, patients require life-long follow-up.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Extrapulmonary small cell carcinomas (EPSCC) are rare tumors where therapy remains poorly defined. We sought to determine the impact of surgical extirpation and radiation therapy for outcomes of EPSCC.
+CLINICAL QUESTION: Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?
+EXPERT ANSWER: Although outcomes for EPSCC remains poor, both surgery and radiation is shown to significantly improve median, 5- and 10-year survival rates. EPSCC patients who are potential candidates for surgical resection or radiation therapy may benefit from these treatments.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: A new edition of the TNM was recently released that includes modifications for the staging system of kidney cancers. Specifically, T2 cancers were subclassified into T2a and T2b (<or =10 cm vs>10 cm), tumors with renal vein involvement or perinephric fat involvement were classified as T3a cancers, and those with adrenal involvement were classified as T4 cancers.
+CLINICAL QUESTION: Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?
+EXPERT ANSWER: The recently released seventh edition of the primary tumor staging system for kidney tumors is a powerful predictor of CSS. However, some of the substages identified by the classification have overlapping prognoses, and other substages include patients with heterogeneous outcomes. The few modifications included in this edition may have not resolved the most critical issues in the previous version.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: A retrospective analysis of a contemporary series of patients with pituitary apoplexy was performed to ascertain whether the histopathological features influence the clinical presentation or the outcome.
+CLINICAL QUESTION: Pituitary apoplexy: do histological features influence the clinical presentation and outcome?
+EXPERT ANSWER: The patients who presented with histological features of pituitary tumor infarction alone had less severe clinical features on presentation, a longer course prior to presentation, and a better outcome than those presenting with hemorrhagic infarction or frank hemorrhage. The endocrine replacement requirements were similar in both groups.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The serum C-reactive protein (CRP) level correlates with the clinical prognosis in patients with kidney, penile and metastatic castration-resistant prostate cancer (PC). We prospectively evaluated the preoperative CRP level as a predictive marker for an advanced tumor stage or high-grade cancer in patients with clinically localized PC.
+CLINICAL QUESTION: Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?
+EXPERT ANSWER: In patients with clinically localized PC, CRP does not appear to possess the predictive value and it was shown to have patients with other tumor entities or advanced PC.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Most staging systems for soft tissue sarcoma are based on histologic malignancy-grade, tumor size and tumor depth. These factors are generally dichotomized, size at 5 cm. We believe it is unlikely that tumor depth per se should influence a tumor's metastatic capability. Therefore we hypothesized that the unfavourable prognostic importance of depth could be explained by the close association between size and depth, deep-seated tumors on average being larger than the superficial ones. When tumor size is dichotomized, this effect should be most pronounced in the large size (>5 cm) group in which the size span is larger.
+CLINICAL QUESTION: Should tumor depth be included in prognostication of soft tissue sarcoma?
+EXPERT ANSWER: Most of the prognostic value of tumor depth in soft tissue sarcomas of the extremity or trunk wall can be explained by the association between tumor size and depth.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: : The histidine triad nucleotide-binding protein 1, HINT1, hydrolyzes adenosine 5'-monophosphoramidate substrates such as AMP-morpholidate. The human HINT1 gene is located on chromosome 5q31.2, a region implicated in linkage studies of schizophrenia. HINT1 had been shown to have different expression in postmortem brains between schizophrenia patients and unaffected controls. It was also found to be associated with the dysregulation of postsynaptic dopamine transmission, thus suggesting a potential role in several neuropsychiatric diseases.
+CLINICAL QUESTION: Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?
+EXPERT ANSWER: : Data from both association and expression studies suggested that variants at HINT1 may be associated with schizophrenia and the associations may be sex-specific. However, the markers showing associations were in high LD to the SPEC2/PDZ-GEF2/ACSL6 locus reported previously in the same samples. This made it difficult to separate the association signals amongst these genes. Other independent studies may be necessary to distinguish these candidate genes.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Staging laparoscopy (SL) is not regularly performed for patients with hepatocellular carcinoma (HCC). It may change treatment strategy, preventing unnecessary open exploration. An additional advantage of SL is possible biopsy of the nontumorous liver to assess fibrosis/cirrhosis. This study aimed to determine whether SL for patients with HCC still is useful.
+CLINICAL QUESTION: Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?
+EXPERT ANSWER: The overall yield of SL for HCC was 7 %, and the accuracy was 27 %. When accurate imaging methods are available and additional percutaneous liver biopsy is implemented as a standard procedure in the preoperative workup of patients with HCC, the benefit of SL will become even less.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Alzheimer's disease (AD) is a primary degenerative disease that progressively affects all brain functions, with devastating consequences for the patient, the patient's family and society. Rest regional cerebral blood flow (rCBF) could have a strategic role in differentiating between AD patients and normal controls, but its use for this purpose has a low discriminatory capacity. The purpose of this study was to evaluate whether the diagnostic sensitivity of rCBF single-photon emission computed tomography (SPECT) could be increased by using an episodic memory task provocation, i.e. memory-provoked rCBF-SPECT (MP-SPECT).
+CLINICAL QUESTION: Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?
+EXPERT ANSWER: Memory provocation increased the sensitivity of rCBF-SPECT for the detection of AD-related blood flow changes in the brain at the group level. Further studies are needed to evaluate MP-SPECT as a diagnostic tool at the individual level. If a higher sensitivity for AD at the individual level is verified in future studies, a single MP-SPECT study might be sufficient in the clinical setting.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: To determine the perinatal predictors of discordant screening outcomes based on a two-stage screening protocol with transient-evoked otoacoustic emissions (TEOAE) and automated auditory brainstem response (AABR).
+CLINICAL QUESTION: Is discordance in TEOAE and AABR outcomes predictable in newborns?
+EXPERT ANSWER: Given the available screening technologies, discordant TEOAE and AABR may be inevitable for some categories of hearing loss among apparently healthy newborns whose mothers received prenatal care. The potential limitations of perinatal morbidities as basis of targeted screening for such cases therefore merit further consideration.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: It is unknown whether tumoral somatostatin receptor subtype 2a (sst2a) immunohistochemistry (IHC) has additional value compared to somatostatin receptor scintigraphy (SRS) uptake using OctreoScan® in predicting response to peptide receptor radiotherapy using 177Lu-octreotate (PRRT) in patients with gastroenteropancreatic neuroendocrine tumors (GEP-NETs). The aims of this study were: (1) to establish the percentage of sst2a immunopositivity in GEP-NET samples of PRRT-treated patients, (2) to determine the relationship between best GEP-NET response using RECIST 1.0 criteria 1 year after PRRT and tumoral sst2a IHC, and (3) to compare characteristics of patients with sst2a IHC-negative and -positive tumors.
+CLINICAL QUESTION: Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?
+EXPERT ANSWER: sst2a IHC of tumor samples has no additional value compared to SRS uptake using OctreoScan® in predicting tumor response after PRRT.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Patients with aggressive lower extremity musculoskeletal tumors may be candidates for either above-knee amputation or limb-salvage surgery. However, the subjective and objective benefits of limb-salvage surgery compared with amputation are not fully clear.QUESTIONS/
+CLINICAL QUESTION: Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?
+EXPERT ANSWER: These data suggest that limb-salvage surgery offers better gait efficiency and return to normal living compared with above-knee amputation, but does not improve the patient's perception of quality of life.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Upper tract urinary carcinoma (UTUC) is a relatively uncommon but aggressive disease. The Ki-67 antigen is a classic marker of cellular proliferation, but there is still controversy regarding the significance and importance of Ki-67 in tumor progression.
+CLINICAL QUESTION: Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?
+EXPERT ANSWER: In conclusion, high Ki-67 expression was associated with poor survival in patients with UTUC, as well as a high risk of disease progression, although these findings need to be interpreted with caution. Large-scale, adequately designed, prospective trials are needed to further confirm the value of Ki-67 in prognosis of UTUC patients.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The main treatment for rectal carcinoma is surgery. Preoperative chemoradiation (CRT) is advocated to reduce local recurrence and improve resection of mid and low tethered rectal tumors.
+CLINICAL QUESTION: Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?
+EXPERT ANSWER: Exclusive CRT approach is not safe to treat patients with low infiltrative rectal carcinoma.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: It is well established that schizophrenia is associated with structural brain abnormalities, but whether these are static or progress over time remains controversial.
+CLINICAL QUESTION: Are there progressive brain changes in schizophrenia?
+EXPERT ANSWER: These findings suggest that schizophrenia is associated with progressive structural brain abnormalities, affecting both gray and white matter. We found no evidence to suggest progressive medial temporal lobe involvement but did find evidence that this may be partly explained by heterogeneity between studies in patient age and illness duration. The causes and clinical correlates of these progressive brain changes should now be the focus of investigation.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: The purpose of this survey was to ascertain the most common surgical practices for attaining negative (tumor-free) surgical margins in patients desiring breast-conservation treatment for breast cancer to see if a consensus exists for optimal treatment of patients.
+CLINICAL QUESTION: Attaining negative margins in breast-conservation operations: is there a consensus among breast surgeons?
+EXPERT ANSWER: Results of this survey highlight the wide variety of practice patterns in the US for handling surgical margins in breast-conservation treatment. This issue remains controversial, with no prevailing standard of care. Consequently, additional study is needed in the modern era of multimodality treatment to examine the minimal amount of surgical treatment necessary, in conjunction with chemotherapy and radiation, to attain adequate local control rates in breast-conservation treatment.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Epidermal growth factor receptor (EGFR) mutations as prognostic or predictive marker in patients with non-small cell lung cancer (NSCLC) have been used widely. However, it may be difficult to get tumor tissue for analyzing the status of EGFR mutation status in large proportion of patients with advanced disease.
+CLINICAL QUESTION: Can serum be used for analyzing the EGFR mutation status in patients with advanced non-small cell lung cancer?
+EXPERT ANSWER: Serum sample might be alternatively used in the difficult time of getting tumor tissue for analyzing the status of EGFR mutation status in patients with advanced NSCLC.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: To compare the characteristics and prognoses of gastric cancers by tumor location in Korean and U.S. subjects after curative-intent (R0) resection for gastric cancer (GC).
+CLINICAL QUESTION: Is gastric cancer different in Korea and the United States?
+EXPERT ANSWER: There were significant differences in tumor characteristics by tumor location within and between both national cohorts. On the basis of these findings, further study to investigate the biological difference between the two countries is needed.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Base Deficit (BD) is a marker of tissue hypoxia in polytrauma patients. It guides resuscitative measures, and predicts outcomes, complications and mortality. The aim of this study was to examine the presence of BD in patients with isolated severe traumatic brain injury (TBI), and to assess if it correlates with the outcomes in these patients.
+CLINICAL QUESTION: Does base deficit predict mortality in patients with severe traumatic brain injury?
+EXPERT ANSWER: Although BD is correlated with GCS at presentation and RTS, it is not a reliable prognostic marker for outcome and mortality in patients with isolated TBI.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Cancer of the buccal mucosa is an uncommon and aggressive neoplasm of the oral cavity. Less than 2% of patients treated for cancer of the oral cavity at Roswell Park Cancer Institute (RPCI) from 1971 to 1997 had primary buccal cancers. Because the majority of these patients did not undergo any adjuvant treatment, this group provided us with the opportunity to assess the relationship between margin status and local recurrence for both small (T1-T2) and large (T3-T4) tumors treated with surgery alone.
+CLINICAL QUESTION: Cancer of the buccal mucosa: are margins and T-stage accurate predictors of local control?
+EXPERT ANSWER: Local excision of T1 and T2 buccal mucosa cancers with pathologically negative margins had a high rate of local recurrence in our series. Low T-stage and negative margins are not adequate predictors of local control. Even early buccal tumors may benefit from adjuvant therapy to enhance local control.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: In recent clinical trials (RCT) of bowel preparation, Golytely was more efficacious than MiraLAX. We hypothesised that there is a difference in adenoma detection between Golytely and MiraLAX.
+CLINICAL QUESTION: MiraLAX vs. Golytely: is there a significant difference in the adenoma detection rate?
+EXPERT ANSWER: Golytely was more efficacious than MiraLAX in bowel cleansing, and was independently associated with both bowel prep quality (BBPS ≥ 7) and higher adenoma detection. Golytely should be used as first line for bowel prep for colonoscopy. Studies with larger populations are needed to confirm these results.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Fluorodeoxyglucose (FDG) has been reported as a surrogate tracer to measure tumor hypoxia with positron emission tomography (PET). The hypothesis is that there is an increased uptake of FDG under hypoxic conditions secondary to enhanced glycolysis, compensating the hypoxia-induced loss of cellular energy production. Several studies have already addressed this issue, some with conflicting results. This study aimed to compare the tracers (14)C-EF3 and (18)F-FDG to detect hypoxia in mouse tumor models.
+CLINICAL QUESTION: Is (18)F-FDG a surrogate tracer to measure tumor hypoxia?
+EXPERT ANSWER: This study showed that FDG is not a good surrogate tracer for tumor hypoxia under either ambient or hypoxic conditions. Only specific hypoxia tracers should be used to measure tumor hypoxia.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Dickkopf-3 (DKK3) may act as a tumor suppressor as it is down-regulated in various types of cancer. This study assessed the DKK3 protein expression in gastric cancer and its potential value as a prognostic marker.
+CLINICAL QUESTION: Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node metastasis preoperatively?
+EXPERT ANSWER: Loss of DKK3 protein expression was significantly associated with poor survival in patients with gastric cancer and was strongly correlated with the TNM stage. DKK3 might be a potential biomarker of lymph node involvement that can improve the predictive power of CT.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: To investigate the relevance of the Symptom Checklist 90-R Obsessive-Compulsive subscale to cognition in individuals with brain tumor.
+CLINICAL QUESTION: Does the SCL 90-R obsessive-compulsive dimension identify cognitive impairments?
+EXPERT ANSWER: Our data suggest that the SCL 90-R is best viewed as an indicator of unidimensional emotional distress and somatic effects of structural brain injury.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Digoxin is a commonly used medication for heart failure and cardiac arrhythmias that has recently been suggested as a novel chemotherapeutic agent. Preclinical studies of prostate cancer (PCa) have shown anti-tumor activity with digoxin. We explore the relationship between use of digoxin and PCa risk.
+CLINICAL QUESTION: Is digoxin use for cardiovascular disease associated with risk of prostate cancer?
+EXPERT ANSWER: These data indicate digoxin use may be associated with a reduction in risk of PCa. Given the potential mechanisms by which digoxin may exert an anti-neoplastic effect and other recent studies showing a negative association between digoxin use and PCa, further research is warranted.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Acute pancreatitis is the major complication of endoscopic retrograde cholangiopancreatography (ERCP) procedure and there are some reports showing cytokine changes in ERCP-induced pancreatits.GOALS: To investigate the association between early changes (within 24 hours) in the serum interleukin (IL)-2, IL-4, tumor necrosis factor (TNF)alpha, and IL-6 levels and the development of post-ERCP pancreatitis.STUDY: Forty five consecutive patients who underwent therapeutic ERCP and 10 patients with acute pancreatitis without ERCP were enrolled to the study. Serum concentrations of IL-2, IL-4, TNFalpha, and IL-6 were determined immediately before, 12 hours and 24 hours after ERCP.
+CLINICAL QUESTION: Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?
+EXPERT ANSWER: The enhancement of serum TNFalpha and IL-6 levels in the patients with ERCP-induced pancreatitis reflects the inflammatory activity. Additionally, these cytokines together with IL-4 can be used in clinical laboratory monitoring of ERCP.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: In familial adenomatous polyposis (FAP), correlations between site of mutation in the adenomatous polyposis coli (APC) gene and severity of colonic polyposis or extracolonic manifestations are well known. While mutation analysis is important for predictive diagnosis in persons at risk, its relevance for clinical management of individual patients is open to question.
+CLINICAL QUESTION: Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?
+EXPERT ANSWER: As age at manifestation and course of the disease may be rather variable, even in carriers of identical germline mutations, therapeutic decisions should be based on colonoscopic findings in individual patients rather than on the site of mutation. However, in patients with mutations within codons 1445-1580, it may be advisable to postpone elective colectomy because desmoids may arise through surgical intervention.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: Mossy fibers are the sole excitatory projection from dentate gyrus granule cells to the hippocampus, forming part of the trisynaptic hippocampal circuit. They undergo significant plasticity during epileptogenesis and have been implicated in seizure generation. Mossy fibers are a highly unusual projection in the mammalian brain; in addition to glutamate, they release adenosine, dynorphin, zinc, and possibly other peptides. Mossy fiber terminals also show intense immunoreactivity for the inhibitory neurotransmitter gamma-aminobutyric acid (GABA), and immunoreactivity for GAD67. The purpose of this review is to present physiologic evidence of GABA release by mossy fibers and its modulation by epileptic activity.
+CLINICAL QUESTION: Do mossy fibers release GABA?
+EXPERT ANSWER: We have thus provided compelling evidence that there is a mossy fiber GABAergic signal. The physiologic role of this mossy fiber GABAergic signal is uncertain, but may be of developmental importance. Other evidence suggests that this GABAergic signal is transiently upregulated after seizures. This could have an inhibitory or disinhibitory effect, and further work is needed to elucidate its actual role.
+
+---
+
+CATEGORY: TUMOR DETECTED
+MEDICAL CONTEXT: An unknown number of colorectal cancers could be due to missed adenomas during previous endoscopy. Data in the literature are sparse. A large cross-sectional study was done in a prospective database of all patients diagnosed with colorectal cancer.
+CLINICAL QUESTION: Are many colorectal cancers due to missed adenomas?
+EXPERT ANSWER: In normal daily practice, only a small number of clinically important adenomas are missed. The problem of missed adenomas probably is being exaggerated.
+
+---
+
+CATEGORY: NORMAL/NO TUMOR
+MEDICAL CONTEXT: Clinical Brain MRI Standards.
+CLINICAL QUESTION: What defines a normal brain MRI?
+EXPERT ANSWER: A normal brain MRI shows symmetrical structures, intact midline, normal ventricular size, and no evidence of mass, lesion, or edema.

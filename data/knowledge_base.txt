@@ -1,0 +1,19 @@
+1. Glioma (Tumor Ganas/Invasif)
+Glioma merupakan jenis tumor otak yang berasal dari sel glial, yaitu sel yang mendukung dan melindungi neuron di otak. Tumor ini bersifat invasif dan seringkali tidak memiliki batas yang jelas dengan jaringan otak sehat di sekitarnya. Pada citra MRI, Glioma sering menunjukkan area edema (pembengkakan) yang luas.
+
+Protokol Penanganan: Penanganan standar melibatkan tindakan pembedahan (reseksi) maksimal yang aman, diikuti dengan radioterapi dan kemoterapi (seperti Temozolomide). Pemantauan rutin menggunakan MRI pasca-operasi sangat krusial untuk mendeteksi rekurensi dini. Tingkat keganasan biasanya diklasifikasikan berdasarkan kriteria WHO (Grade I-IV).
+
+2. Meningioma (Umumnya Jinak)
+Meningioma adalah tumor yang tumbuh dari meninges, yaitu lapisan membran pelindung yang menyelimuti otak dan saraf tulang belakang. Sebagian besar Meningioma bersifat jinak (Grade I) dan tumbuh secara lambat. Pada hasil MRI, tumor ini biasanya terlihat memiliki batas yang sangat tegas dan sering menunjukkan tanda "dural tail" (penebalan membran di sekitar tumor).
+
+Protokol Penanganan: Jika tumor berukuran kecil dan tidak menimbulkan gejala, dokter sering menyarankan observasi berkala ("wait and see"). Namun, jika tumor menekan jaringan otak dan menyebabkan defisit neurologis, prosedur pembedahan atau stereotactic radiosurgery (Gamma Knife) menjadi pilihan utama untuk mengangkat massa tumor.
+
+3. Pituitary Adenoma (Tumor Kelenjar Hipofisis)
+Tumor Pituitary tumbuh pada kelenjar hipofisis yang terletak di dasar otak. Kelenjar ini mengontrol berbagai hormon penting dalam tubuh. Tumor ini dapat bersifat fungsional (menghasilkan hormon berlebih) atau non-fungsional (menekan kelenjar dan menyebabkan kekurangan hormon). Gejala umum meliputi gangguan penglihatan (karena penekanan pada kiasma optikum) dan ketidakseimbangan hormonal.
+
+Protokol Penanganan: Penanganan dapat dilakukan melalui terapi obat-obatan untuk menyeimbangkan hormon atau prosedur bedah minimal invasif yang disebut Transsphenoidal Surgery (melalui hidung). Radioterapi biasanya dicadangkan untuk kasus di mana tumor tidak dapat diangkat sepenuhnya atau bersifat agresif.
+
+4. No Tumor (Kondisi Normal)
+Kondisi No Tumor menunjukkan bahwa pada hasil pemindaian MRI tidak ditemukan massa abnormal, lesi, atau edema yang mengarah pada keganasan primer maupun sekunder. Struktur anatomi otak terlihat simetris, ventrikel berada pada posisi normal, dan tidak ada tanda-tanda peningkatan tekanan intrakranial atau pergeseran garis tengah (midline shift).
+
+Saran Medis: Meskipun hasil pencitraan menunjukkan kondisi normal, pasien disarankan untuk tetap berkonsultasi dengan ahli saraf jika gejala klinis (seperti sakit kepala kronis atau vertigo) masih menetap, guna menyingkirkan kemungkinan kondisi neurologis non-neoplastik lainnya.
